@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BadDesign.iml" filepath="$PROJECT_DIR$/BadDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DocumentEditorLLD.iml" filepath="$PROJECT_DIR$/.idea/DocumentEditorLLD.iml" />
     </modules>
   </component>
